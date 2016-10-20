@@ -1,0 +1,24 @@
+{
+  "name": "react_redux_webpack",
+  "version": "1.0.0",
+  "description": "react+redux+webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xutingting02/react_redux_webpack.git"
+  },
+  "keywords": [
+    "react",
+    "redux",
+    "webpack"
+  ],
+  "author": "xutingting",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xutingting02/react_redux_webpack/issues"
+  },
+  "homepage": "https://github.com/xutingting02/react_redux_webpack#readme"
+}
